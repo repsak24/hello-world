@@ -1,2 +1,2 @@
 # hello-world
-first repository from tutorial
+i'm an idiot
